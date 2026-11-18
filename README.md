@@ -5,11 +5,12 @@ TokyuRuby会議で登壇される方向けのスライドテンプレートで�
 ## ファイル
 
 - [TokyuRubyKaigi_template.key](./TokyuRubyKaigi_template.key)（Keynote）
+- [TokyuRubyKaigi_template.pptx](./TokyuRubyKaigi_template.pptx)（PowerPoint）
 
 ## 使い方
 
 1. 上のリンクからファイルを開き、「Download raw file」ボタンでダウンロードしてください
-2. Keynote で開き、内容を書き換えてご利用ください
+2. Keynote または PowerPoint で開き、内容を書き換えてご利用ください
 
 テンプレートの使用は必須ではありません。お好きなスライドで登壇いただいて構いません。
 
